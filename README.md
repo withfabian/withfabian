@@ -20,8 +20,11 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
+<h1 align='center'>⚡️<i>Gak Tau 🗿</i>⚡️</h1>
+<p align="center">
+   <img src="https://raw.githubusercontent.com/withfabian/DATA/main/cuteanime.gif?token=GHSAT0AAAAAACNRF5FDSWBL2FVIWI33DB7YZN2OJLQ" />
+</p>
 
-<h1 align='center'>⚡️<i>Berak Solved The Problem!</i>⚡️</h1>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
