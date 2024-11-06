@@ -10,11 +10,7 @@
 <br>
 <br>
 <br>
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=withfabian" alt="withfabian" />
-  </a>
-</p>
+
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=withfabian&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
 </p>
